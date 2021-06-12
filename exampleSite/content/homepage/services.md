@@ -1,10 +1,13 @@
 ---
-title: "Services"
+title: "Comment venir"
 weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+* **en train**: prendre le train jusqu'à Dijon. Compter 1h40 depuis Paris en TGV.
+Ensuite il faut prendre le bus 105 jusqu'à Bèze centre (attention, il ne passe pas souvent).
+
+* en **voiture**:
 
 ---
 

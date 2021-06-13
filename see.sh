@@ -1,1 +1,1 @@
-hugo server --source=exampleSite --themesDir=../..
+hugo server --disableFastRender --source=exampleSite --themesDir=../..

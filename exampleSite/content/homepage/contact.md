@@ -1,11 +1,13 @@
 ---
 title: "Contact"
-weight: 4
+weight: 5
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+Pour nous joindre:
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp; Christina [+33 7 82 66 65 37](tel:Christina)
 
-Let us get in touch!
+{{<icon class="fa fa-phone">}}&nbsp; Julien [+33 6 95 65 93 80](tel:Julien)
+
+![Bèze](images/source.jpg)

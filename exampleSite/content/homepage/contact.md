@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-Pour nous joindre:
+Pour nous joindre :
 
 {{<icon class="fa fa-phone">}}&nbsp; Christina [+33 7 82 66 65 37](tel:Christina)
 

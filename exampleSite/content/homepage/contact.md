@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-weight: 5
+weight: 6
 header_menu: true
 ---
 
@@ -11,3 +11,5 @@ Pour nous joindre :
 {{<icon class="fa fa-phone">}}&nbsp; Julien [+33 6 95 65 93 80](tel:Julien)
 
 ![Bèze](images/source.jpg)
+
+![Vanoise](images/Vanoise.jpg)
